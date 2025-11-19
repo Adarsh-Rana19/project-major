@@ -24,7 +24,7 @@
    npm install
    npm start
    ```
-2. Open your browser at `http://localhost:4000`
+2. Open your browser at `http://localhost:3000`
 3. Create or join a room, open another tab with same `?room=...` to test video and Java compile.
 
 ## Notes
